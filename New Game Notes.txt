@@ -1,0 +1,70 @@
+Character ideas (satyrical versions of real people in history) :
+
+C - Astra (sun/star)
+
+W - Leonidas (spartan)
+
+W - Kusunoki (samurai)
+
+E - Oymyakon (frost)
+
+E - Nikola (lightning)
+
+P - Nostradamus (plague doctor)
+	-smell the flowers
+	-bloodletting (on enemy)
+	-leeches
+
+P - Combat Medic
+
+Environments (designed similar to WoW arenas with different high/low ground and terrain advantages):
+	-Waves will rotate through different armor types
+	-Each environment will have a unique strength/weakness (water taking extra lightning damage)
+
+	-Water - on an island - waves spawn 360 degrees from the sea around you. Minimal terrain objects.
+		- tides come in/out minimizing/expanding playable space
+
+	-Magic - physical/bleed advantage
+
+	-Physical - in a castle - magic advantage
+
+	-Hell - physicians/light advantage
+
+	-Laboratory - cosmologist advantage
+		-Traps, elevators/pits
+
+
+
+
+-Potentially break characters into categories like tank, healer, dps, etc.
+	*Saviors
+		*Field of Expertise
+		-Combat Specialists (physical/melee) - tank/bleed/threat - physical damage
+		-Elementalists (frost/fire/lightning/earth/air) - buffs/debuffs - elemental damage
+		-Cosmologists (stars, gravity, time) - combination of elemental/physical damage
+		-Physicians (healers)
+		-Tacticians (mines, traps, artillery) - utility - combination of elemental/physical damage
+
+-Premise
+	-Earth has been attacked by dark magic, altering life and making nature hostile. 
+		Bringing back disfigured/magic versions of life on earth
+	-Humans figured out how to harness the magic to bring back historical figures and infuse them with the dark magic
+		to combat the hostile life
+	-Earth/plants/animals/reanimates all locked on island, must reach portal that takes them to other points on earth to spread.
+		Don't let waves reach portal.
+
+
+-More ways to get gold than getting the last hit on creeps
+-Abilities/items scale by % rather than flat numbers to ensure scalability
+-Different environments (10) that can be chosen in any order from start. 
+	-After defeating an environment you can choose the next
+	-Each next environment scales like m+ in wow (health and damage % increases)
+	-Potentially introduce rotating affixes (monthly/quarterly/seasonally)
+-Unlock levels based on highest completed. Able to then start climbing from any level unlocked.
+-Allowed to switch characters within category, but not switch categories (switch between Elementalists like frost to fire, 
+	but not Elementalist to Cosmologist) - This keeps items relevant level to level as they scale within each field                                            
+-Allowed to have multiple members of party playing in same category, but not more than one of each character
+-Items are permanent (can be sold at a discount) and don't change when environments change. This discourages changing between categories.
+-No level ceiling. Climb/push as far as your team can
+-Currency - magic/resource that powers items humans are creating outside the biome, but need fuel to use them. Items get teleported in
+	with enough of the resource.
