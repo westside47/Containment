@@ -1,11 +1,12 @@
 ﻿// Based on Unity's example script:
 // https://forum.unity.com/threads/new-post-processing-stack-pre-release.435581/page-2#post-2845653
 using UnityEngine;
-using UnityEngine.PostProcessing;
+using UnityEngine.UI;
 
-[RequireComponent(typeof(PostProcessingBehaviour))]
+
 public class HealthBasedVignette : MonoBehaviour
 {
+    /*
     public PostProcessingBehaviour behaviour; // assign in Inspector
     public float healthBasedSpeedMultiplier = 1;
 
@@ -32,4 +33,5 @@ public class HealthBasedVignette : MonoBehaviour
         float wave = Mathf.Abs(Mathf.Sin(Time.realtimeSinceStartup * speed));
         SetVignetteSmoothness((1 - healthPercent) * (0.5f + (wave / 2f)));
     }
+     */
 }
